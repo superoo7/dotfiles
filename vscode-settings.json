@@ -3,6 +3,7 @@
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.fontWeight": "FiraCode-Retina",
+  "terminal.integrated.fontFamily": "Menlo",
   "python.pythonPath": "/anaconda3",
   "window.zoomLevel": 1,
   "workbench.colorTheme": "One Dark Pro",
